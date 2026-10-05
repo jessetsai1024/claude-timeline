@@ -1,0 +1,6 @@
+.DS_Store
+# 引擎每次載入 mod 時自己寫的型別檔，每台機器、每個版本都不一樣
+.claude-plugin/types/
+# 預覽工具的輸出
+tools/*.json
+tools/*.png

@@ -1,0 +1,6 @@
+{
+  "name": "timeline",
+  "version": "0.1.0",
+  "description": "側邊欄的時間軸：這一輪的時間花在哪（等模型、想、寫、跑指令、網路、讀寫檔案、等幫手）。/timeline 開或關",
+  "author": { "name": "Jesse & 螢" }
+}

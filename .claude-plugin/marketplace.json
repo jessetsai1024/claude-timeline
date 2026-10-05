@@ -1,0 +1,22 @@
+{
+  "name": "claude-timeline",
+  "description": "側邊欄的時間軸：這一輪的時間花在哪（等模型、想、寫、跑指令、網路、讀寫檔案、等幫手）。/timeline 開或關",
+  "owner": {
+    "name": "Jesse",
+    "url": "https://github.com/jessetsai1024"
+  },
+  "plugins": [
+    {
+      "name": "timeline",
+      "source": "./",
+      "description": "側邊欄的時間軸：這一輪的時間花在哪（等模型、想、寫、跑指令、網路、讀寫檔案、等幫手）。/timeline 開或關",
+      "category": "productivity",
+      "tags": [
+        "mod",
+        "terminal",
+        "pane",
+        "claude-code"
+      ]
+    }
+  ]
+}
